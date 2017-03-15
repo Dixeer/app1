@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">application</string>
+    <string name="welcome">Hello World!</string>
+    <string name="your_name">yourName</string>
+    <string name="button">button</string>
+    <string name="emptyField"> Field can not be empty</string>
+</resources>

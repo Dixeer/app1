@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">aplikacja</string>
+    <string name="welcome">Witaj</string>
+    <string name="your_name">Twoje imie</string>
+    <string name="button">Przycisk</string>
+    <string name="emptyField">Pole nie może być puste</string>
+</resources>

@@ -22,7 +22,7 @@
             android:layout_height="match_parent"
             android:layout_weight="0.5"
             android:gravity="center"
-            android:text="Hello World!"
+            android:text="@string/welcome"
             android:textSize="@dimen/textSize" />
 
         <EditText
@@ -49,8 +49,8 @@
             android:layout_gravity="center"
             android:layout_weight="1"
             android:gravity="center"
-            android:textColor="@drawable/after_click"
             android:textSize="40sp" />
+        <!--android:textColor="@drawable/after_click"-->
 
         <Button
             android:id="@+id/applyButton"
